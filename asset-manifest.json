@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/erb_fe2/static/css/main.1d417887.css",
+    "main.js": "/erb_fe2/static/js/main.42140f52.js",
+    "static/media/freedom.png": "/erb_fe2/static/media/freedom.3356dd24f50d6143a593.png",
+    "static/media/logo.svg": "/erb_fe2/static/media/logo.17fca528666ad38fb9820c717e7318a1.svg",
+    "index.html": "/erb_fe2/index.html",
+    "main.1d417887.css.map": "/erb_fe2/static/css/main.1d417887.css.map",
+    "main.42140f52.js.map": "/erb_fe2/static/js/main.42140f52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d417887.css",
+    "static/js/main.42140f52.js"
+  ]
+}
