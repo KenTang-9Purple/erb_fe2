@@ -2,7 +2,7 @@
   "name": "tour",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://KenTang-9Purple.github.io/erb_fe2",
+  "homepage":"https://KenTang-9Purple.github.io/erb_fe2",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run bulid", 
-    "deploy": "gh-pages -d build" 
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
